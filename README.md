@@ -1,6 +1,6 @@
-# ⭐ DSA in Javascript
+# ⭐ Data Structures and Algorithms in Javascript 🚀🚀
 
-### This repository contains various Problems of Data Structures and Algorithms in Javascript.
+This repository contains various Problems of Data Structures and Algorithms in Javascript.
 
 * 1) [Arrays](https://github.com/himanshuramteke/Data-Structures-Algorithms-JavaScript/tree/master/1.Array)
 * 2) [2dArrays](https://github.com/himanshuramteke/Data-Structures-Algorithms-JavaScript/tree/master/2.2dArray)
